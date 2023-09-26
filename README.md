@@ -26,7 +26,7 @@ Ensure that you have all the necessary dependencies installed. [Provide installa
 
 ### Excel File:
 
-The Excel file [Patients_HLA_BA](/Patients_HLA_BA.xlsx) contains binding affinities of MHC-I/II to specific alleles associated with the immunogenic peptides of each patient. These affinities were used to compute the dissociation constant, $K_{D,j}$. The relevant information from this spreadsheet has been integrated into the CanVaxDOpt Notebook.
+The Excel file [Patients_HLA_BA](Patients_HLA_BA.xlsx) contains binding affinities of MHC-I/II to specific alleles associated with the immunogenic peptides of each patient. These affinities were used to compute the dissociation constant, $K_{D,j}$. The relevant information from this spreadsheet has been integrated into the CanVaxDOpt Notebook.
 
 ### Citation:
 
