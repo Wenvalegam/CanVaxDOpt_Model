@@ -1,6 +1,6 @@
 # Dose optimization of an adjuvanted peptide-based personalized neoantigen melanoma vaccine (2023)
 
-**Authors**: Authors: Wencel Valega-Mackenzie, Marisabel Rodriguez Messan, Osman N. Yogurtcu, Ujwani Nukala, Zuben E. Sauna, and Hong Yang
+**Authors**: Wencel Valega-Mackenzie, Marisabel Rodriguez Messan, Osman N. Yogurtcu, Ujwani Nukala, Zuben E. Sauna, and Hong Yang
 
 ## Overview
 
