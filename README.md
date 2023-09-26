@@ -12,7 +12,7 @@ This repository provides the code to reproduce the numerical results presented i
 - Selection of the optimal peptide dose with the most clinical benefit than any other tested dose.
 - Reproduction of figures from our paper: Optimal vaccine doses (Fig 5), Activated T cells (Fig 6), Tumor diameter (Fig 7).
 - Comparison of clinical benefits using the predicted optimal vaccine dose against clinical trial doses or other tested doses (Tables 3 and 4).
-- Tables presenting optimal vaccine dose concentrations of peptides and adjuvants per vaccination day (Supplemental Information).
+- Tables presenting optimal vaccine dose concentrations of peptides and adjuvants per vaccination day (Tables 5-16 in Supplemental Information).
 
 ### Usage:
 
