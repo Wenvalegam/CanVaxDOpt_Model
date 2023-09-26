@@ -1,12 +1,10 @@
 # Dose optimization of an adjuvanted peptide-based personalized neoantigen melanoma vaccine (2023)
-Authors: Wencel Valega-Mackenzie, Marisabel Rodriguez Messan, Osman N. Yogurtcu, Ujwani Nukala, Zuben E. Sauna, and Hong Yang 
-# Dose Optimization of an Adjuvanted Peptide-Based Personalized Neoantigen Melanoma Vaccine (2023)
 
-**Authors**: Name1, Name2, ...
+**Authors**: Authors: Wencel Valega-Mackenzie, Marisabel Rodriguez Messan, Osman N. Yogurtcu, Ujwani Nukala, Zuben E. Sauna, and Hong Yang
 
 ## Overview
 
-This repository provides the code to reproduce the numerical results presented in our paper [insert citation here]. It includes a Jupyter Notebook named CanVaxDOpt, which guides users through the process of simulating optimal vaccine doses, immune responses, and tumor responses for each patient.
+This repository provides the code to reproduce the numerical results presented in our paper [citation here]. It includes a Jupyter Notebook named [CanVaxDOpt](CanVaxDOpt.ipynb), which guides users through the process of simulating optimal vaccine doses, immune responses, and tumor responses for each patient.
 
 ### Key Features:
 
