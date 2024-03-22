@@ -28,4 +28,4 @@ The Excel file, [Patients_HLA_BA](Patients_HLA_BA.xlsx), contains binding affini
 
 ### Citation:
 
-If you use this code in your research, please cite our paper [citation here].
+If you use this code in your research, please cite our paper: Valega-Mackenzie, Wencel, et al. "Dose optimization of an adjuvanted peptide-based personalized neoantigen melanoma vaccine." PLOS Computational Biology 20.3 (2024): e1011247.
